@@ -8,10 +8,6 @@
 
 ## Install
 
-```sh
-npm install
-```
-
 ## Author
 
 👤 **Contact Information**
@@ -22,4 +18,8 @@ npm install
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ to one of my projects or follow me <!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/matovu-ronald" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @matovu-ronald on GitHub">Follow @matovu-ronald</a>
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
