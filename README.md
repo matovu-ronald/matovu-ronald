@@ -8,7 +8,7 @@ I am proficient in technologies such as CSS, React, Vuejs, PHP, Laravel
 
 ### ✨ My Story In A Nutshell
 > I started programming in 2015 with languages such as C, C++ and Java thereby building my first client application in Java as a desktop application in 2015.
-> I joined Joomla and Drupal groups Uganda among the first piooners and straight into web development using PHP programming. In 2016 I joined Python Software Foundation Uganda to tutor web development on workshops organized for universities in Uganda and Rwanda
+> I joined Joomla and Drupal groups Uganda being among the first piooners and straight into web development using PHP programming. In 2016 I joined Python Software Foundation Uganda to tutor web development on workshops organized for universities in Uganda and Rwanda
 > 
 
 
