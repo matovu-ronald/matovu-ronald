@@ -10,7 +10,7 @@ I am proficient in technologies such as JavaScript, CSS, React, Vuejs, PHP, Lara
 >I joined Joomla and Drupal groups Uganda being among the first piooners and straight into web development using PHP programming. In 2016 I joined Python Software Foundation Uganda to tutor web development on workshops organized for universities in Uganda and Rwanda.  
 >In 2018 together with a team of 3 [Mutebi Brian](https://github.com/mutebibrian), [Wenareeba Innocent](https://github.com/wandieinnocents) and [
 Nicodemus Ojwee](https://github.com/ojaynico) started the first [**Kotlin Uganda User Group**](https://www.facebook.com/kotlinugandausergroup/) a community for teaching Kotlin to various universities and hubs in Uganda.   
->_Over the course I have worked both as a freelancer and an employee for Hackshade Techs, Toll and Haben and United Nations World Food Programme and part time contractor for Afrosoft Uganda and Red Token Solutions
+> *Over the course I have worked both as a freelancer and an employee for Hackshade Techs, Toll and Haben and United Nations World Food Programme and part time contractor for Afrosoft Uganda and Red Token Solutions*
 
 
 
