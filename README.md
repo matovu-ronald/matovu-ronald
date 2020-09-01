@@ -2,7 +2,7 @@
 
 [![Twitter: matovu40](https://img.shields.io/twitter/follow/matovu40.svg?style=social)](https://twitter.com/matovu40)
 
-I am full stack web developer and humanitarian service worker with computer science degree
+I am full stack web developer and humanitarian worker with great love for building web applications
 
 ### ✨ [Demo](https://matovu-ronald.github.io/tours-and-travel-html-template/)
 
