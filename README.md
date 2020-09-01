@@ -22,4 +22,5 @@ Give a ⭐️ to one of my projects or follow me <!-- Place this tag where you w
 <a class="github-button" href="https://github.com/matovu-ronald" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @matovu-ronald on GitHub">Follow @matovu-ronald</a>
 
 <!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+extra_javascript:
+  https://buttons.github.io/buttons.js
