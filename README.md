@@ -2,7 +2,7 @@
 
 [![Twitter: matovu40](https://img.shields.io/twitter/follow/matovu40.svg?style=social)](https://twitter.com/matovu40)
 
-I am full stack web developer and humanitarian worker with great love for building web applications.
+I am full stack web developer and humanitarian worker with computer science degree passionate about building amazing web applications.
 I started my programming career in 2015 with languages C and Java and later jumped in to PHP and Laravel framework.
 I am proficient in technologies such as CSS, React, Vuejs, PHP, Laravel
 
