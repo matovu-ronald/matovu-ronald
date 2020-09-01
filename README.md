@@ -1,16 +1,25 @@
-### Hi there 👋
+# Matovu Ronald 👋
 
-<!--
-**matovu-ronald/matovu-ronald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: matovu40](https://img.shields.io/twitter/follow/matovu40.svg?style=social)](https://twitter.com/matovu40)
 
-Here are some ideas to get you started:
+> Tours and travel html template built using sass with 7-1 foldert structure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ [Demo](https://matovu-ronald.github.io/tours-and-travel-html-template/)
+
+## Install
+
+```sh
+npm install
+```
+
+## Author
+
+👤 **Contact Information**
+
+- Website: matovu-ronald
+- Twitter: [@matovu40](https://twitter.com/matovu40)
+- Github: [@matovu-ronald](https://github.com/matovu-ronald)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
