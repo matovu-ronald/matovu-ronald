@@ -4,7 +4,7 @@
 
 I am full stack web developer and humanitarian worker with a computer science degree passionate about building amazing web applications.
 I am proficient in technologies such as JavaScript, CSS, React, Vuejs, PHP, Laravel.  
-> **_Over the course I have worked both as a freelancer and an employee for Hackshade Techs, Toll and Haben and United Nations World Food Programme and part time contractor for Afrosoft Uganda and Red Token Solutions_**
+> **_Over the course I have worked both as a freelancer and an employee for United Nations World Food Programme, Hackshade Techs, Toll and Haben  and part time contractor for Afrosoft Uganda and Red Token Solutions_**
 
 ### ✨ My Story In A Nutshell
 >I started programming in 2015 with languages such as C, C++ and Java thereby building my first client application in Java as a desktop application in 2015.   
