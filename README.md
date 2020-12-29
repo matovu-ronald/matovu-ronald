@@ -6,15 +6,6 @@ I am full stack web developer and humanitarian worker with a computer science de
 I am proficient in technologies such as JavaScript, CSS, React, Vuejs, PHP, Laravel.  
 > **_Over the course I have worked both as a freelancer and an employee for United Nations World Food Programme, Hackshade Techs, Toll and Haben  and part time contractor for Afrosoft Uganda and Red Token Solutions_**
 
-### ✨ My Story In A Nutshell
->I started programming in 2015 with languages such as C, C++ and Java thereby building my first client application in Java as a desktop application in 2015.   
->I joined Joomla and Drupal groups Uganda being among the first pioneers and straight into web development using PHP programming. In 2016 I joined Python Software Foundation Uganda to tutor web development on workshops organized for universities in Uganda and Rwanda. 
->In 2018 together with a team of 3 [Mutebi Brian](https://github.com/mutebibrian), [Wenareeba Innocent](https://github.com/wandieinnocents) and [
-Nicodemus Ojwee](https://github.com/ojaynico) started the first [**Kotlin Uganda User Group**](https://www.facebook.com/kotlinugandausergroup/) a community for teaching Kotlin to various universities and hubs in Uganda.  
->In 2018, together with [Wenareeba Innocent](https://github.com/wandieinnocents) and [Steven Byarugaba](https://github.com/byarustev) also won the National Agri-Tech Innovations Challenge.  
-
-
-
 
 👤 **Contact Information**
 
