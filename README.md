@@ -4,7 +4,7 @@
 
 I am Full stack developer and education enthusiast with a computer science degree.   
 Passionate about building amazing web applications.   
-Proficient in technologies such as JavaScript, Nodejs, Typescript, CSS, React, Vuejs, PHP, Laravel.  
+Proficient in JavaScript, Nodejs, Typescript, CSS, React, Vuejs, PHP, Laravel.  
 
 👤 **Contact Information**
 
