@@ -2,8 +2,9 @@
 
 [![Twitter: matovu40](https://img.shields.io/twitter/follow/matovu40.svg?style=social)](https://twitter.com/matovu40)
 
-I am full stack web developer and humanitarian worker with a computer science degree passionate about building amazing web applications.
-I am proficient in technologies such as JavaScript, CSS, React, Vuejs, PHP, Laravel.  
+I am full stack developer and education enthusiast with a computer science degree. 
+Passionate about building amazing web applications.
+I am proficient in technologies such as JavaScript, Nodejs, Typescript, CSS, React, Vuejs, PHP, Laravel.  
 
 👤 **Contact Information**
 
