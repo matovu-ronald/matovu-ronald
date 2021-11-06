@@ -2,9 +2,9 @@
 
 [![Twitter: matovu40](https://img.shields.io/twitter/follow/matovu40.svg?style=social)](https://twitter.com/matovu40)
 
-I am Full stack developer and education enthusiast with a computer science degree.   
+I am full stack developer and education enthusiast.   
 Passionate about building amazing web applications.   
-Proficient in JavaScript, Nodejs, Typescript, CSS, React, Vuejs, PHP, Laravel.  
+Languages: JavaScript, Nodejs, Typescript, CSS, React, Vuejs, PHP & Laravel.  
 
 👤 **Contact Information**
 
