@@ -4,7 +4,7 @@
 
 I am full stack developer and education enthusiast.   
 Passionate about building amazing web applications.   
-Languages: JavaScript, Nodejs, Typescript, CSS, React, Vuejs, PHP & Laravel.  
+Languages: JavaScript, Nodejs, Typescript, CSS, React, Vuejs, PHP & Laravel, Python.  
 
 👤 **Contact Information**
 
